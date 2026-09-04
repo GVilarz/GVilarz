@@ -58,5 +58,5 @@
 <br>
 
 <div align="center">
-  <img src="![](https://komarev.com/ghpvc/?username=gvilarz&abbreviated=true)"/>
+  <img src="https://komarev.com/ghpvc/?username=GVilarz&color=blueviolet&style=for-the-badge&label=VISITAS+NO+PERFIL" />
 </div>
