@@ -58,5 +58,5 @@
 <br>
 
 <div align="center">
-  <img src="![Contador de Visitas:](https://komarev.com/ghpvc/?username=GVilarz&color=green)" alt="Contador de Visitas" />
+  <img src="![](https://komarev.com/ghpvc/?username=gvilarz&abbreviated=true)"/>
 </div>
