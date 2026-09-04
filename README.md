@@ -55,19 +55,9 @@
 
 <div align="center">
 
-  <br />
+<br>
 
-  <p align="center">
-    👁️ <b>Visitas ao perfil:</b><br />
-    <img src=![](https://komarev.com/ghpvc/?username=GVilarz&color=green)" />
-  </p>
-
-</div>
-
-</div>
-
-<br />
-
+<p>Contador de Visitas ao perfil:</p>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/GVilarz/count.svg" alt="Contador de Visitas" />
+  <img src="![](https://komarev.com/ghpvc/?username=your-github-username)" alt="Contador de Visitas" />
 </div>
