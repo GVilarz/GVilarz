@@ -60,3 +60,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=GVilarz&color=blueviolet&style=for-the-badge&label=VISITAS+NO+PERFIL" />
 </div>
+
+![Snake animation](https://raw.githubusercontent.com/GVilarz/GVilarz/output/github-contribution-grid-snake-dark.svg)
