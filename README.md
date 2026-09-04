@@ -5,14 +5,14 @@
   <p><i>Sou Estudante de Tecnologia</i></p>
 
 
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-    <img src="" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/gabriel-vilar-44a644412/">
+    <img src="[!(https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)" alt="LinkedIn" />
   </a>
   <a href="gabrielvilarguerra@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="[!(https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)" alt="Gmail" />
   </a>
   <a href="https://www.instagram.com/euvilarz?igsi=bTFwdHRrdTc3ZDBh&utm_source=qr">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Portfólio" />
+    <img src="[!(https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)" alt="instagram" />
   </a>
 
 </div>
@@ -32,11 +32,11 @@
 
 
 **Linguagens & Frameworks:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 **Banco de Dados & Infra:**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 
 ---
 
