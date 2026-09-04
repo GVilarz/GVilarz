@@ -55,8 +55,14 @@
 
 <div align="center">
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GVilarz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVilarz&layout=compact&theme=dracula&hide=html,css"/>
+  <br />
+
+  <p align="center">
+    👁️ <b>Visitas ao perfil:</b><br />
+    <img src="https://profile-counter.glitch.me/SEU_USUARIO/count.svg?color=9333ea" alt="Contador de Visitas" />
+  </p>
+
+</div>
 
 </div>
 
