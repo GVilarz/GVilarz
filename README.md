@@ -5,16 +5,10 @@
   <p><i>Sou Estudante de Tecnologia</i></p>
 
 
-  <a href="https://www.linkedin.com/in/gabriel-vilar-44a644412/">
-    <img src="[!(https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)" alt="LinkedIn" />
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail" />
   </a>
-  <a href="gabrielvilarguerra@gmail.com">
-    <img src="[!(https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/euvilarz?igsi=bTFwdHRrdTc3ZDBh&utm_source=qr">
-    <img src="[!(https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)" alt="instagram" />
-  </a>
-
+</p>
 </div>
 
 ---
