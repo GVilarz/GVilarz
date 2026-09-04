@@ -14,15 +14,22 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
+      # PASSO OBRIGATÓRIO: Baixa o repositório na máquina do GitHub
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Gera os arquivos da cobrinha
       - name: Generate the snake game from a github contribution grid
         uses: Platane/snk@v3
         with:
-          github_user_name: GVilarz
+          github_user_name: gabrielldunder-beep
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Publica os SVGs no branch "output"
       - name: Push snake svg
         uses: crazy-max/ghaction-github-pages@v4
         with:
