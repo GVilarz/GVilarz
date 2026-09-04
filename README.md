@@ -57,7 +57,6 @@
 
 <br>
 
-<p>Contador de Visitas ao perfil:</p>
 <div align="center">
-  <img src="![](https://komarev.com/ghpvc/?username=your-github-username)" alt="Contador de Visitas" />
+  <img src="![Contador de Visitas:](https://komarev.com/ghpvc/?username=GVilarz&color=green)" alt="Contador de Visitas" />
 </div>
