@@ -32,7 +32,7 @@
 
 
 **Linguagens & Frameworks:**
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,html,css,c)](https://skillicons.dev)
 
 **Banco de Dados & Infra:**
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
