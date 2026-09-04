@@ -5,8 +5,8 @@
   <p><i>Sou Estudante de Tecnologia</i></p>
 
 
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail" />
+<a href="https://gvilarz.github.io/Link-Bio/">
+    <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail,spotify,github" />
   </a>
 </p>
 </div>
