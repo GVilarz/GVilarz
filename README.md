@@ -59,7 +59,7 @@
 
   <p align="center">
     👁️ <b>Visitas ao perfil:</b><br />
-    <img src="https://profile-counter.glitch.me/SEU_USUARIO/count.svg?color=9333ea" alt="Contador de Visitas" />
+    <img src=![](https://komarev.com/ghpvc/?username=GVilarz&color=green)" />
   </p>
 
 </div>
